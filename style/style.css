@@ -1,0 +1,41 @@
+/* stylesheet */
+
+.attribution { 
+	font-size: 11px;
+	text-align: center;
+}
+
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
+
+.container {
+	border: 2px black solid;
+	text-align: center;
+	border-radius: 10px;
+	width: 220px;
+	height: auto;
+}
+
+img {
+	width: 200px;
+	height: auto;
+	border-radius: 10px;
+	margin-top: 10px;
+}
+
+#firstLine,
+#secondLine {
+	width: 80%;
+	margin-left: 20px;
+}
+
+#firstLine {
+	font-weight: bold;
+	font-size: 15px;
+}
+
+#secondLine {
+	font-size: 11px;
+	margin-bottom: 30px;
+}
