@@ -14,13 +14,13 @@ body {
 }
 
 .container {
-	border: 2px white solid;
+	border: 2px hsl(212, 45%, 89%) solid;
 	text-align: center;
 	border-radius: 10px;
 	width: 220px;
 	height: auto;
 	background-color: white;
-	margin-top: 30px;
+	margin-top: 40px;
 	margin-left: 50%;
 	margin-bottom: 20px;
 	transform: translateX(-50%);
@@ -35,19 +35,20 @@ img {
 
 #firstLine,
 #secondLine {
-	width: 90%;
-	margin-left: 10px;
-	font-family: "Montserrat", sans-serif;
+	width: 80%;
+	margin-left: 20px;
+	font-family: "Outfit", sans-serif;
 }
 
 #firstLine {
 	font-weight: bold;
-	font-size: 14px;
-	color: rgb(13, 28, 68);
+	font-size: 15px;
+	color: hsl(218, 44%, 22%);
 }
 
 #secondLine {
 	font-size: 11px;
+	font-weight: 400;
 	margin-bottom: 30px;
-	color: gray;
+	color: hsl(216, 15%, 48%);
 }
