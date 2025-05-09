@@ -58,7 +58,7 @@ Here's a snippet I'm proud of that handles responsiveness nicely:
 	#secondLine {
 		font-size: 0.9rem;
 	}
-}
+}```
 
 ## Author
 
